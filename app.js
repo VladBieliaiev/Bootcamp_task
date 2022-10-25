@@ -66,3 +66,10 @@ car.interaction(canister, 300)
 
 console.log(cat);
 console.log(bowl);
+
+
+console.log("....interaction with error....");
+
+human.interaction(glass, 250)
+
+
